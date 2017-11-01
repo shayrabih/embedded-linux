@@ -1,6 +1,6 @@
 Project - Rs232 and Ethernet Loop 
 File name: ProjectDescriptionREADME.txt
-
+base on mini2440 development board .
 Description:
 1.Send data from P.C. to EVB on port 5000
 2.Read data from EVB and send on UART1
